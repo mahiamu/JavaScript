@@ -1,0 +1,63 @@
+body{
+    margin-left: 95px;
+    margin-top: 145px;
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 800;
+    background-color: rgb(122, 126, 129);
+    color: rgb(204, 207, 209);
+    margin-bottom: 3px;
+    width: 605px;
+    padding: 7px;
+    border: none;
+    border-radius: 20px;
+}
+.calculator{
+    margin-top: 10px;
+}
+input{
+    width: 250px;
+    margin: 2px;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: center;   
+}
+  #user-month {
+    width: 105px;
+    height: 45px;
+
+}
+#user-day {
+    width: 105px;
+    height: 45px;
+    
+
+}
+#user-year {
+    width: 105px;
+    height: 45px;
+
+}
+
+#submit-date{
+    width: 605px;
+    height: 55px;
+    margin-top: 30px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    background-color:rgb(122, 126, 129);
+    color: rgb(204, 207, 209);
+    font-size:35px ;
+}
+
+#message{
+    margin:20px 0px;
+    font-weight: 1500;
+    font-size: 40px;
+    color: rgb(122, 126, 129);
+}

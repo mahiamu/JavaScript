@@ -1,0 +1,43 @@
+#claculator{
+    background-color: rgb(128, 121, 110);
+    width: 450px;
+    height: 350px;
+    color: rgb(194, 205, 214);
+    padding: 55px;
+    padding-top: 30px;
+    border-style: none;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+input{
+    float: right;
+    clear: both;
+    width: 125px;
+    height: 30px;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    font-size: 35px;
+}
+#addup{
+    background-color:rgb(194, 205, 214);
+    border-style: none;
+    border-radius: 10px;
+    width: 220px;
+    height: 45px;
+    color: rgb(128, 121, 110);
+    font-size: 30px;
+    margin-right: 120px;
+}
+h1{
+    font-size: 65px;
+    text-align: center;
+    color: argb(128, 121, 110);
+}
+#perc{
+    color: rgb(128, 121, 110);
+}

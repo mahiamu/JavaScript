@@ -1,0 +1,20 @@
+#btn1 {
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(167, 117, 160);
+}
+
+#btn2 {
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(167, 117, 160);
+}
+
+img{
+    width: 958px;
+    height: 578px;
+}
+ 
+.wrapper{
+    margin-left: 100px;
+}

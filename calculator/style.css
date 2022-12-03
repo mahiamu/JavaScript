@@ -1,0 +1,23 @@
+input {
+    width: 100px;
+    height: 80px;
+    font-size: 75px;
+    border-radius: 18px;
+    margin: 10px;
+    background-color: rgb(163, 172, 180);
+    color: azure;
+    border-style: none;
+    
+
+}
+#calform{
+    margin-left: 180px;
+    margin-top: 20px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-right: 150px;
+    margin-top:20px;
+}

@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(129, 94, 52);
+}
+input{
+    margin-top: 100px;
+    margin-left: 350px;
+    width: 350px;
+    height: 40px;
+    display: block;
+    padding-left: 395px;
+    border-style: none;
+    border-radius: 15px;
+}
+#output{
+    margin-top: 45px;
+    width: 100px;
+    background: lightpink;
+    margin-left: 500px;
+    
+}
+#btn {
+    width: 350px;
+    height: 80px;
+    color: #fff;
+    background-color: lightpink;
+    border-style: none;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+h1{
+    text-align: center;
+    color: lightpink;
+    margin-top: 50x;
+}
